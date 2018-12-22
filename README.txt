@@ -1,6 +1,6 @@
 Further development and redesign for personal use by Kendall Jackson
 
-https://kendalled.github.io
+https://github.com/kendalled
 kendallkj00@gmail.com
 
 --------------------------------------------------------------------------------------
